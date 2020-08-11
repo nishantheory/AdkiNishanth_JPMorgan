@@ -1,0 +1,64 @@
+git clone https://github.com/insidesherpa/JPMC-tech-task-1.git 
+chmod rrr-www-xxx git clone https://github.com/insidesherpa/JPMC-tech-task-1.git 
+From f2e655ec81b5a6d8bc125cde6f684c7a445cca6f Mon Sep 17 00:00:00 2001
+From: nishanth <invinciblenishanth@gmail.com>
+git add -A
+git commit -A
+git add -A
+git config user.email "invinciblenishanth@gmail.com"
+git config user.name "nishanth"
+git commit -m 'Create Patch File'
+git commit -a
+git format-patch -1 HEAD
+git add -A
+git add -A
+git config user:email "invinciblenishanth@gmail.com"
+git add -A
+git config user.email "invinciblenishanth@gmail.com"
+git config user.name "nishanth"
+git commit -m 'Create Patch File'
+dir
+dir /ah
+git format-patch -1 HEAD
+git add -A
+git config user.mail "invinciblenishanth@gmail.com"
+git config user.name "adki"
+git commit -m 'Create Patch File'
+git format-patch -1 HEAD
+git add -A
+git config user.email "invincibenishanth@gmail.com"
+git config user.name "adki"
+git commit -m 'Create Patch File'
+git format-patch -1 HEAD
+repo
+git
+git status
+git commit -m 'Create Patch File'
+git add jpmc-tech-task-2
+git commit -m 'Create Patch File'
+git add jpmc-tech-task-2
+git format-patch -1 HEAD
+git commit -m 'Create Patch File'
+git add -A
+git config user.email "invinciblenishanth@gmail.com"
+git config user.name "adki"
+git commit -m 'Create Patch File'
+git format patch-file -1 HEAD
+git format-patch -1 HEAD
+git add -A
+git config user.email "invincibenishanth@gmail.com"
+git config user.name "adki"
+git commit -m 'Create Patch File'
+git format-patch -1 HEAD
+git config user.email "invinciblenishanth@gmail.com"
+git config --global user.email "invinciblenishanth@gmail.com"
+git config --global user.name "nishanth1"
+git add -A
+git add -A
+cd.
+git add -A
+git add -A
+git add -A
+git add -A
+cd program files
+git add -A
