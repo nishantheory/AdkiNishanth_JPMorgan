@@ -96,7 +96,7 @@ _React started_
 
 _AFTER 3 PARTS , CONFRONTED THIS ON THE SCREEN_
 
-![](https://github.com/Invincible-ni/AdkiNishanth_JPMorgan/blob/master/post_abstract/output/ezgif-2-65e7fcae4fa6.mp4)
+![Image](https://github.com/Invincible-ni/AdkiNishanth_JPMorgan/blob/master/post_abstract/output/IMG_20200815_144939.jpg)
 
 ------------------------------
 
