@@ -102,6 +102,8 @@ _AFTER 3 PARTS , CONFRONTED THIS ON THE SCREEN_
 
 ***<p align="center">AT THE END</p>***
 
+_Continuously updating graph with a dark-red trigger-alert line denoting the ratio top_ask_price:top_bid_price(the two bounds)_
+
 ***<a href="https://github.com/Invincible-ni/AdkiNishanth_JPMorgan/blob/master/post_abstract/cert.pdf">JPMorgan CERTIFICATE</a>***
 
 
